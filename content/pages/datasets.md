@@ -1,9 +1,13 @@
 ---
 content_type: page
+description: This section provides datasets and descriptive information from the UCI
+  Machine Learning Repository.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Datasets
 uid: e276c107-67b9-4674-a212-bb217c47f9ba
+video_metadata:
+  youtube_id: null
 ---
 
 These datasets are from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php), and are discussed in Lecture 2: R for Machine Learning.
@@ -32,7 +36,7 @@ DESCRIPTIONS
 Real
 {{< tdclose >}}
 {{< tdopen >}}
-[Iris description (TXT)](./resolveuid/31f9cdf90c2815829196d63bb1081ba1)
+{{% resource_link "31f9cdf9-0c28-1582-9196-d63bb1081ba1" "Iris description (TXT)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -44,7 +48,7 @@ Real
 Integer, real
 {{< tdclose >}}
 {{< tdopen >}}
-[Wine description (TXT)](./resolveuid/195aef8a9332ab8039231d4c96e6dea1)
+{{% resource_link "195aef8a-9332-ab80-3923-1d4c96e6dea1" "Wine description (TXT)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -56,19 +60,19 @@ Integer, real
 Integer
 {{< tdclose >}}
 {{< tdopen >}}
-[Haberman description (TXT)](./resolveuid/44d1e85bec996f6fd6dac0cc77e7d23f)
+{{% resource_link "44d1e85b-ec99-6f6f-d6da-c0cc77e7d23f" "Haberman description (TXT)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Housing (TXT)](./resolveuid/95bc584e411a014b3ac1cbe9c9b557c5)
+{{% resource_link "95bc584e-411a-014b-3ac1-cbe9c9b557c5" "Housing (TXT)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Categorical, integer, real
 {{< tdclose >}}
 {{< tdopen >}}
-[Housing description (TXT)](./resolveuid/816d94fe6f3f34e665286e69f52c6c70)
+{{% resource_link "816d94fe-6f3f-34e6-6528-6e69f52c6c70" "Housing description (TXT)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -80,7 +84,7 @@ Categorical, integer, real
 Integer
 {{< tdclose >}}
 {{< tdopen >}}
-[Transfusion description (TXT)](./resolveuid/11362c491905bb50be248e9ea77987d2)
+{{% resource_link "11362c49-1905-bb50-be24-8e9ea77987d2" "Transfusion description (TXT)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -92,7 +96,7 @@ Integer
 Categorical
 {{< tdclose >}}
 {{< tdopen >}}
-[Car description (TXT)](./resolveuid/65cc8232926ddcbfb7dbd30e67679229)
+{{% resource_link "65cc8232-926d-dcbf-b7db-d30e67679229" "Car description (TXT)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -104,7 +108,7 @@ Categorical
 Binary
 {{< tdclose >}}
 {{< tdopen >}}
-[Mushroom description (TXT)](./resolveuid/574a3672c66d4f4004ef6e5c5342b355)
+{{% resource_link "574a3672-c66d-4f40-04ef-6e5c5342b355" "Mushroom description (TXT)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -116,7 +120,7 @@ Binary
 Integer
 {{< tdclose >}}
 {{< tdopen >}}
-[Digits description (TXT)](./resolveuid/d1cfd95258db2d252fd921b39805907d)
+{{% resource_link "d1cfd952-58db-2d25-2fd9-21b39805907d" "Digits description (TXT)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
